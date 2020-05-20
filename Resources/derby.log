@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Mar 29 16:55:08 PDT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0171-28b8-7032-0000013ede05 
+on database directory /Users/elaineyang/Desktop/java/YuwenYang_JavaCompFinal/Resources/db/FinalDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@55054057 
+Loaded from file:/Users/elaineyang/Desktop/java/YuwenYang_JavaCompFinal/Resources/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=13+33
+user.dir=/Users/elaineyang/Desktop/java/YuwenYang_JavaCompFinal
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15.3
+derby.system.home=Resources
+Database Class Loader started - derby.database.classpath=''

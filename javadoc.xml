@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" author="true" classpath="Resources/derbytools.jar:Resources/derby.jar:Resources/derbyrun.jar:Resources/derbyclient.jar:Resources/derbynet.jar" destdir="doc" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="test" source="1.7" sourcepath="src" splitindex="true" use="true" version="true"/>
+    </target>
+</project>
